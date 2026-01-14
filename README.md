@@ -6,6 +6,10 @@ This project implements a CAN-based embedded ECU prototype using an ESP32 to sim
 
 The ECU communicates over CAN with a PC-based test node (Laptop + CANable v2.0), receives control commands, processes sensor data, and publishes system status frames. The project focuses on functional CAN communication, ECU state control, and validation, rather than diagnostics.
 
+
+![Image](BLOCK_DIAGRAM.jpg )
+
+
 ## 🎯 Project Objectives
 
 - Design a CAN-enabled ECU using ESP32 and an external CAN transceiver
