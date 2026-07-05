@@ -1,5 +1,7 @@
 # CAN-Based Embedded ECU Prototype
 
+Demo Video : https://drive.google.com/file/d/1GaiQH3QInpbhzhxm0P819niqdjihEMWJ/view?usp=sharing
+
 ## 📌 Project Overview
 
 This project implements a CAN-based embedded ECU prototype using an ESP32 to simulate a reverse assist system, inspired by automotive HIL (Hardware-in-the-Loop) testing principles.
